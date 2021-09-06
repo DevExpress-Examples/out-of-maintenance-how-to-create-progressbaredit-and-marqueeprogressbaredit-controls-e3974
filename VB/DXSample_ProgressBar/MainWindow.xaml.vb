@@ -1,5 +1,4 @@
-﻿Imports Microsoft.VisualBasic
-Imports System.Windows
+﻿Imports System.Windows
 
 Namespace DXSample_ProgressBar
 	''' <summary>
@@ -7,6 +6,7 @@ Namespace DXSample_ProgressBar
 	''' </summary>
 	Partial Public Class MainWindow
 		Inherits Window
+
 		Public Sub New()
 			InitializeComponent()
 		End Sub
